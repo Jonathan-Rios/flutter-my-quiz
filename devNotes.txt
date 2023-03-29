@@ -1,0 +1,16 @@
+Fala, pessoal!
+
+Na próxima aula o professor vai dar uma refatorada no código e irá gerar um pequeno problema dentro do Map e na Lista dentro do arquivo questionario.dart.
+
+Para resolver é bem simples, basta adicionar o casting "as String” lá no map. Dessa forma:
+
+...respostas
+            .map((resp) => Resposta(resp['texto'] as String, quandoResponder))
+            .toList(),
+E na Lista fazer o cast para o mesmo tipo da Lista, dessa forma:
+
+List<Map<String, Object>> respostas = temPerguntaSelecionada
+        ? perguntas[perguntaSelecionada]['respostas']
+            as List<Map<String, Object>>
+        : [];
+Bons estudos!
