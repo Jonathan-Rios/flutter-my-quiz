@@ -2,9 +2,9 @@
 
 <p align="center">
 
-![Last commit](https://img.shields.io/github/last-commit/Jonathan-Rios/nome-do-repo?color=4DA1CD 'Last commit') &nbsp;
-![Repo size](https://img.shields.io/github/repo-size/Jonathan-Rios/nome-do-repo?color=4DA1CD 'Repo size') &nbsp;
-![Languages](https://img.shields.io/github/languages/count/Jonathan-Rios/nome-do-repo?color=4DA1CD 'Languages') &nbsp;
+![Last commit](https://img.shields.io/github/last-commit/Jonathan-Rios/flutter-my-quiz?color=4DA1CD 'Last commit') &nbsp;
+![Repo size](https://img.shields.io/github/repo-size/Jonathan-Rios/flutter-my-quiz?color=4DA1CD 'Repo size') &nbsp;
+![Languages](https://img.shields.io/github/languages/count/Jonathan-Rios/flutter-my-quiz?color=4DA1CD 'Languages') &nbsp;
   <img 
     alt="License"
     src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033"
@@ -38,9 +38,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/Jonathan-Rios/nome-do-repo.git
+$ git clone https://github.com/Jonathan-Rios/flutter-my-quiz.git
 
-$ cd nome-do-repo
+$ cd flutter-my-quiz
 ```
 
 Para iniciá-lo, deverá ter um ambiente configurado com um dispositivo ou emulador para exibir, em caso de dúvidas este é o [link](https://docs.flutter.dev/get-started/install) da documentação de configuração.
